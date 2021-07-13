@@ -1,0 +1,32 @@
+_repo: Libros-de-caballerias-Seleccion_65685
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Tenreiro, Ramón María
+    aliases:
+    - Tenreiro, Ramon Maria
+    - Tenreiro, R. M. (Ramón María)
+    birthdate: 1879
+    deathdate: 1939
+    gutenberg_agent_id: '33339'
+    url: http://www.gutenberg.org/2009/agents/33339
+    wikipedia: https://es.wikipedia.org/wiki/Ram%C3%B3n_Mar%C3%ADa_Tenreiro
+description: ''
+gutenberg_issued: '2021-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65685'
+  lccn: '32008484'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish fiction -- Classical period, 1500-1700'
+- GITenberg
+tableOfContents: Amadís de Gaula -- Palmerín de Inglaterra.
+title: 'Libros de caballerías
+
+  Selección'
+url: http://www.gutenberg.org/ebooks/65685
