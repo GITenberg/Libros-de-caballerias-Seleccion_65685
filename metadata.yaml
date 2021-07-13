@@ -1,5 +1,5 @@
 _repo: Libros-de-caballerias-Seleccion_65685
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Tenreiro, Ramón María
@@ -11,7 +11,12 @@ contributor:
     gutenberg_agent_id: '33339'
     url: http://www.gutenberg.org/2009/agents/33339
     wikipedia: https://es.wikipedia.org/wiki/Ram%C3%B3n_Mar%C3%ADa_Tenreiro
+covers:
+- cover_type: archival
+  image_path: 65685-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65685#Libros-de-caballerias-Seleccion
 gutenberg_issued: '2021-06-24'
 gutenberg_type: Text
 identifiers:
